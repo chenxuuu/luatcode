@@ -1,4 +1,4 @@
-# LUAT 代码自动补全插件
+# LUAT 代码自动补全插件[![Build status](https://ci.appveyor.com/api/projects/status/6jmmlfyg4iroik9w?svg=true)](https://ci.appveyor.com/project/chenxuuu/luatcode)
 
 本插件会为你的vscode添加自动补全luat各个函数代码的功能，提高开发效率。
 
