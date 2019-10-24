@@ -2,7 +2,7 @@
     "name": "luatcode",
     "displayName": "LUAT",
     "description": "自动补全合宙LUAT接口",
-    "version": "0.12.0",
+    "version": "0.13.1",
     "publisher": "chenxuuu",
     "icon": "images/icon.png",
     "repository": {
@@ -10,7 +10,7 @@
         "url": "https://github.com/chenxuuu/luatcode.git"
     },
     "engines": {
-        "vscode": "^1.39.0"
+        "vscode": "^1.5.0"
     },
     "categories": [
         "Snippets"
