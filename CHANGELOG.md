@@ -1,9 +1,11 @@
-# Change Log
+# 更新记录
 
-All notable changes to the "luatcode" extension will be documented in this file.
+详细的请见[documentGenerator](https://github.com/chenxuuu/documentGenerator)，因为所有参数都是由这个项目自动生成的
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.16.0
 
-## [Unreleased]
+加上返回值和示例代码的数据
 
-- Initial release
+## 0.0.1
+
+发布初版
