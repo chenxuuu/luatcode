@@ -20,6 +20,10 @@
             {
                 "language": "lua",
                 "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "moon",
+                "path": "./snippets/moon.json"
             }
         ]
     }
