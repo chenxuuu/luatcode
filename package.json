@@ -2,7 +2,7 @@
     "name": "luatcode",
     "displayName": "LUAT",
     "description": "自动补全合宙LUAT接口",
-    "version": "0.23.0",
+    "version": "0.24.0",
     "publisher": "chenxuuu",
     "icon": "images/icon.png",
     "repository": {
@@ -23,6 +23,10 @@
             },
             {
                 "language": "moon",
+                "path": "./snippets/moon.json"
+            },
+            {
+                "language": "moonscript",
                 "path": "./snippets/moon.json"
             }
         ]
