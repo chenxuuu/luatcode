@@ -28,6 +28,14 @@
             {
                 "language": "moonscript",
                 "path": "./snippets/moon.json"
+            },
+            {
+                "language": "py",
+                "path": "./snippets/qpy.json"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/qpy.json"
             }
         ]
     }
